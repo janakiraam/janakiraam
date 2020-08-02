@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, This is Janaki Raam, Software Engineer in SAP...
+
+### Techonolgies interested are,
+- ML
+- Datascience
+- NLP
+- Neurol Network
 
 <!--
 **janakiraam/janakiraam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
